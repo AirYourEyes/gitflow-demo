@@ -4,5 +4,7 @@ package main
 import "fmt"
 
 func main() {
-  fmt.Println("callmainfunction")
+  // implementation rate limit 
+  fmt.Println("hello world")
 }
+
